@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ywxweal\&layout=compact)" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ywxweal\&layout=compact" height="150" alt="stats graph" />
 </div>
 
 ###
