@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ywxweal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ywxweal\&layout=compact)" height="150" alt="stats graph" />
 </div>
 
 ###
@@ -8,11 +8,11 @@
 
 ###
 
-<p align="left">C#<br>Gorilla Tag backend exploiter 🔥🔥<br></p>
+<p align="left">C#<br>Gorilla Tag backend exploiter 🔥🔥<br>Backend maker<br>i fuck with around skids to make them look dumb</p>
 
 ###
 
-<h2 align="center">Coding languages that i use (still learning some stuff)</h2>
+<h2 align="center">coding languages that i use (not fully learned)</h2>
 
 ###
 
