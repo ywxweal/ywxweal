@@ -4,11 +4,11 @@
 
 ###
 
-<h2 align="center">About me</h2>
+<h2 align="center">about me</h2>
 
 ###
 
-<p align="left">C#<br>Gorilla Tag backend exploiter 🔥🔥<br>Backend maker<br>i fuck with around skids to make them look dumb</p>
+<p align="left">C#<br>gorilla tag backend exploiter<br>backend maker<br>i fuck with around skids to make them look dumb</p>
 
 ###
 
