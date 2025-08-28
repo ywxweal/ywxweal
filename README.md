@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">C#<br>gorilla tag backend exploiter<br>backend maker<br>i fuck with around skids to make them look dumb</p>
+<p align="left">C#<br>gorilla tag backend exploiter<br>backend maker<br>13 year old mostly self taught programmer</p>
 
 ###
 
