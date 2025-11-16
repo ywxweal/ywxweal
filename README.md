@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">C#<br>gorilla tag backend exploiter<br>backend maker<br>13 year old mostly self taught programmer</p>
+<p align="left">C#<br>gorilla tag backend exploiter<br>backend maker<br>13 year old mostly self taught programmer<br>i dont make most things public</p>
 
 ###
 
