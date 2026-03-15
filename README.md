@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">C#<br>gorilla tag backend exploiter<br>backend maker<br>13 year old mostly self taught programmer<br>i dont make most things public</p>
+<p align="left">C#<br>gtag modder<br>backend maker<br>13 year old mostly self taught programmer<br>i dont make most things public, thats why i have so low github commits</p>
 
 ###
 
@@ -19,7 +19,12 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
 </div>
 
 ###
