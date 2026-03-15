@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ywxweal&rank_icon=github" height="150" alt="stats graph"/>
-</div>
+<p align="center">  
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ywxweal" alt="GitHub Streak" /></a>
+</p>
 
 ###
 
