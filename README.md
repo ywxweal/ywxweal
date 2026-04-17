@@ -7,7 +7,7 @@
 <p align="center">🩵 my favorite color is blue </p>
 <p align="center">😈 i like hyperpop, especially <a href="https://open.spotify.com/artist/2jKpyH0q7d85BevWLtdKGB"><img src="https://img.shields.io/badge/NOVAGANG-1DB954?logo=spotify&logoColor=black" /></a></p>
 <p align="center">🏳️‍🌈 bisexual femboy/catboy, i mainly perfer men.</p>
-<p align="center">🏳️‍🌈 my old alias is bxt, your probally know me by that</p>
+<p align="center">👁️ my old alias is bxt, your probally know me by that</p>
 <p align="center">📩 contact @ awesomekittycat@rich-femboy.club</p>
 
 ###
