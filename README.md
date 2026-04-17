@@ -8,7 +8,8 @@
 
 ###
 
-<p align="left">C#<br>gtag modder<br>backend maker<br>13 year old mostly self taught programmer<br>i dont make most things public, thats why i have so low github commits</p>
+<p align="left">https://femboyz.cam <<<<<<< bio website</p>
+<p align="left">contact @ awesomekittycat@rich-femboy.club | i don't read direct messages on discord unless your a friend </p>
 
 ###
 
