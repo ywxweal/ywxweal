@@ -8,45 +8,18 @@
 
 ###
 
-<p align="left">https://femboyz.cam <<<<<<< bio website</p>
-<p align="left">contact @ awesomekittycat@rich-femboy.club | i don't read direct messages on discord unless your a friend </p>
+<p align="center">🩵 my favorite color is blue </p>
+<p align="center">😈 i like hyperpop, especially <a href="https://open.spotify.com/artist/2jKpyH0q7d85BevWLtdKGB"><img src="https://img.shields.io/badge/NOVAGANG-1DB954?logo=spotify&logoColor=black" /></a></p>
+<p align="center">🏳️‍🌈 bisexual femboy/catboy, i mainly perfer men.</p>
+<p align="center">🏳️‍🌈 my old alias is bxt, your probally know me by that</p>
+<p align="center">📩 contact @ awesomekittycat@rich-femboy.club</p>
 
 ###
 
-<h2 align="center">coding languages that i use (not fully learned)</h2>
+<h2 align="center">languages/programs/librarys that i use</h2>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"/>
-  <img width="12"/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,cpp,java,python,mongodb,visualstudio,unity,androidstudio&perline=4"/>
 </div>
-
-###
-
-<h2 align="center">programs/librarys i use</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" height="40" alt="windows11 logo"/>
-  <img width="12"/>
-  <img src="https://license.reqable.com/icons/Icon-192.png" height="40" alt="reqable logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rider/rider-original.svg" height="40" alt="rider logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"/>
-  <img width="12"/>
-</div>
-
-###
