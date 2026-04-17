@@ -1,7 +1,3 @@
-<p align="center">  
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ywxweal" alt="GitHub Streak" /></a>
-</p>
-
 ###
 
 <h2 align="center">about me</h2>
@@ -23,3 +19,13 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs,cpp,java,python,mongodb,visualstudio,unity,androidstudio&perline=4"/>
 </div>
+
+###
+
+<h2 align="center">github stats</h2>
+
+###
+
+<p align="center">  
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ywxweal" alt="GitHub Streak" /></a>
+</p>
