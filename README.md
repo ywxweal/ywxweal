@@ -1,3 +1,5 @@
+
+
 ###
 
 <h2 align="center">about me</h2>
@@ -20,12 +22,15 @@
   <img src="https://skillicons.dev/icons?i=cs,cpp,java,python,mongodb,visualstudio,unity,androidstudio&perline=4"/>
 </div>
 
+
 ###
 
-<h2 align="center">github stats</h2>
+<h2 align="center">badges</h2>
 
 ###
 
 <p align="center">  
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=awesomekittycat68" alt="GitHub Streak" /></a>
+  <br/><br/>
+  <a href="https://noskid.today"><img src="https://noskid.today/badge/470x200/?repo=awesomekittycat68/repository" alt="NoSkid Verification" /></a>
 </p>
